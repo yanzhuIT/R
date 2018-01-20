@@ -1,2 +1,2 @@
 # R
-R language program
+R language application
